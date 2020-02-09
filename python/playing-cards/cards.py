@@ -1,5 +1,4 @@
 class Card:
-
     def __init__(self, id, **kwargs):
         _suits = {
             'H': 'Hearts',
